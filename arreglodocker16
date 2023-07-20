@@ -1,0 +1,13 @@
+Para que no se produzca el error
+
+AttributeError: module 'lib' has no attribute 'X509_V_FLAG_CB_ISSUER_CHECK'
+
+procedase de la siguiente manera
+- se borra el requirements.txt de la carpeta l10n-spain
+- se pasa el script que instala todos los requirements.txt
+- el cryptography instalado es la veersion 3.x.x
+- se instala este cryptograpy:
+          pip3 install cryptography==36.0.2
+          
+- después se reconstruye el requirements.txt de l10n-spain pero sin cryptograpy
+- se instala este requirements modificado.
