@@ -1,3 +1,5 @@
+#!/bin/bash
+
 git clone -b 16.0 https://github.com/OCA/account-analytic.git 
 git clone -b 16.0 https://github.com/OCA/account-closing.git 
 git clone -b 16.0 https://github.com/OCA/account-financial-reporting.git 
