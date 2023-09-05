@@ -1,0 +1,7 @@
+Contraseñas seguras linux, superadminpassowrd, admin
+Backup vps
+Llaves servidores de copia
+Fail2ban
+Cortafuegos 22, 80, 443, 10050
+Bloqueo borrado vps
+Permisos ficheros configuración
