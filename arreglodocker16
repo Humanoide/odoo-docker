@@ -8,6 +8,8 @@ procedase de la siguiente manera
 - el cryptography instalado es la veersion 3.x.x
 - se instala este cryptograpy:
           pip3 install cryptography==36.0.2
+- se instala paramiko
+          pip3 install paramiko
           
 - después se reconstruye el requirements.txt de l10n-spain pero sin cryptograpy
 - se instala este requirements modificado.
