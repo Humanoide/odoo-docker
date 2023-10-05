@@ -13,3 +13,15 @@ procedase de la siguiente manera
           
 - después se reconstruye el requirements.txt de l10n-spain pero sin cryptograpy
 - se instala este requirements modificado.
+
+========================================================================================================
+Para arreglar el problema greenlet
+
+Se instalan solas estas versiones
+gevent==20.9.0
+greenlet==2.0.2
+
+Hay que instalar greenlet==0.4.17
+https://pypi.org/project/greenlet/0.4.17/
+
+
