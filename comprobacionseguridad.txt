@@ -6,3 +6,4 @@ Cortafuegos 22, 80, 443, 10050
 Bloqueo borrado vps
 Permisos ficheros configuración
 Conectar 3 servidores de copia
+fichero configuracion adaptado a longpolling
