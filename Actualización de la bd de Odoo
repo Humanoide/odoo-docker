@@ -1,1 +1,4 @@
-odoo-bin --no-xmlrpc --stop-after-init -u all -d dbname
+docker exec -it odoo16-web-1 bash
+
+
+odoo --no-xmlrpc --stop-after-init -u all -d nombrebasedatos
