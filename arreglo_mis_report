@@ -1,0 +1,5 @@
+Si deseas clonar el repositorio mis-builder en la rama 16.0 pero con el código en el commit específico 280c9c9c, puedes hacer lo siguiente:
+
+git clone -b 16.0 https://github.com/OCA/mis-builder.git
+cd mis-builder
+git checkout 280c9c9c
