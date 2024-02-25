@@ -203,6 +203,10 @@
 'web_tour',
 'web_unsplash',
 'web',
+'account_move_line_reconcile_manual',
+'mass_editing',
+'account_invoice_line_report',
+'account_netting',
     
     ],
     # always loaded
