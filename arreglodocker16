@@ -1,3 +1,11 @@
+# Es necesario desinstalar greenlet para que se quede en la versión   greenlet==0.4.17
+
+pip3 uninstall greenlet
+
+
+==========================================================================
+Lo que sigue está obsoleto
+
 Para que no se produzca el error
 
 AttributeError: module 'lib' has no attribute 'X509_V_FLAG_CB_ISSUER_CHECK'
