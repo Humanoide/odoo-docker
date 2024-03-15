@@ -204,7 +204,7 @@
 'web_unsplash',
 'web',
 'account_move_line_reconcile_manual',
-'mass_editing',
+'server_action_mass_edit',
 'account_invoice_line_report',
 'account_netting',
     
